@@ -6,4 +6,6 @@ class BlogsController < ApplicationController
   def show
     render template: "/blogs/blogs.html.erb"
   end
+
+
 end
